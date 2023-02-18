@@ -21,6 +21,9 @@ int countChar(String? text) {
 }
 
 void desafio() {
+  print("\r\n=====================================");
+  print("> Caracteres e Palavras");
+  print("=====================================");
   String? content;
   while (true) {
     print("Digite um texto:");

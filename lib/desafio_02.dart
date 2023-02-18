@@ -1,9 +1,9 @@
 import 'dart:io';
 
 desafio() {
-  print("\r\n=====================================");
-  print("Calculo do Indice de massa corporal");
-  print("=====================================");
+  print("\r\n=======================================");
+  print("> Calculo do Índice  de massa corporal");
+  print("=======================================");
   double peso = 0.0;
   do {
     print("Infore seu peso atual:");
